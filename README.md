@@ -1,2 +1,2 @@
 # por
-verilog por module
+该代码为基于 Verilog 硬件描述语言，实现的硬件上电复位模块。
